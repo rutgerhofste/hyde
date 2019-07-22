@@ -11,4 +11,15 @@ Hyde is available for download as zipped ascii files from an FTP server. For eas
 ## Disclaimer and credit
 The author of this repo is not associated with the HYDE project team. Scripts might contain errors and none of this work is reviewed. Please use with caution. See the Hyde [website](https://themasites.pbl.nl/tridion/en/themasites/hyde/) to provide appropriate credit
 
+## Data download
+
+Accessed on 2019 07 22 10:47 CEST
+FTP: `ftp.pbl.nl/hyde/`
+
+Only the following data was donwloaded:
+`/hyde/hyde3.2/baseline/zip/*`
+
+
+
+
 
