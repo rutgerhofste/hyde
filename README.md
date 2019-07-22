@@ -19,6 +19,8 @@ FTP: `ftp.pbl.nl/hyde/`
 Only the following data was downloaded:
 `/hyde/hyde3.2/baseline/zip/*`
 
+Release [file](https://raw.githubusercontent.com/rutgerhofste/hyde/master/readme_release_HYDE3.2.1.txt)
+
 
 
 
