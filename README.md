@@ -1,5 +1,5 @@
 # Hyde
-Process selected data from the HYDE model and store in easy to use file formats.
+Process selected data from the [HYDE](https://themasites.pbl.nl/tridion/en/themasites/hyde/) model and store in easy to use file formats.
 
 ## What is Hyde?
 HYDE presents (gridded) time series of population and land use for the last 12,000 years ! It also presents various other indicators such as GDP, value added, livestock, agricultural areas and yields, private consumption, greenhouse gas emissions and industrial production data, but only for the last century.
