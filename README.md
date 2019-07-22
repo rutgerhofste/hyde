@@ -21,6 +21,8 @@ Only the following data was downloaded:
 
 Release [file](https://raw.githubusercontent.com/rutgerhofste/hyde/master/readme_release_HYDE3.2.1.txt)
 
+Files stored on `s3://wri-projects/Aqueduct30/rawData/Hyde/version_03_02_01`
+
 
 
 
