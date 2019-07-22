@@ -16,7 +16,7 @@ The author of this repo is not associated with the HYDE project team. Scripts mi
 Accessed on 2019 07 22 10:47 CEST
 FTP: `ftp.pbl.nl/hyde/`
 
-Only the following data was donwloaded:
+Only the following data was downloaded:
 `/hyde/hyde3.2/baseline/zip/*`
 
 
