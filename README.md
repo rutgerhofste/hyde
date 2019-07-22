@@ -13,13 +13,13 @@ The author of this repo is not associated with the HYDE project team. Scripts mi
 
 ## Data download
 
-Accessed on 2019 07 22 10:47 CEST
+Accessed on 2019 07 22 10:47 CEST  
 FTP: `ftp.pbl.nl/hyde/`
 
 Only the following data was downloaded:
-`/hyde/hyde3.2/baseline/zip/*`
+`/hyde/hyde3.2/*/zip/*`
 
-Upzipped to same folder.  
+Upzipped to `unzipped` folder and uploaded to S3.
 
 Release [file](https://raw.githubusercontent.com/rutgerhofste/hyde/master/readme_release_HYDE3.2.1.txt)
 
