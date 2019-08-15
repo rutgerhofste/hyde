@@ -2,5 +2,5 @@
 popc,"population counts, in inhabitants/gridcell"
 popd,"population density, in inhabitants/km2 per gridcell"
 rurc,"rural population counts, in inh/gridcell"
-urb,"urban population counts, in inh/gridcell"
+urbc,"urban population counts, in inh/gridcell"
 uopp,"total built-up area, such as towns, cities, etc, in km2 per grid cell"
