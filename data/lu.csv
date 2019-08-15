@@ -1,6 +1,6 @@
 ﻿filename,description
-cropland,"total cropland area, in km2 per grid cell, after 1960 identical to FAO's category Arable land and permanent crops."
-grazing,"total land used for grazing, in km2 per grid cell, after 1960 identical to FAO's category Permanent Pasture."
+cropland,"total cropland area, in km2 per grid cell, after 1960 identical to FAOs category Arable land and permanent crops."
+grazing,"total land used for grazing, in km2 per grid cell, after 1960 identical to FAOs category Permanent Pasture."
 pasture,"total pasture area, in km2 per grid cell, defined as Grazing land with an aridity index > 0.5, assumed to be more intensively managed."
 rangeland,"total pasture area, in km2 per grid cell, defined as Grazing land with an aridity index > 0.5, assumed to be less or not managed."
 ir_rice,"total irrigated rice area, in km2 per grid cell."
