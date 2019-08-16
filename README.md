@@ -59,7 +59,10 @@ Files stored on `s3://wri-projects/Aqueduct30/rawData/Hyde/`
 ## EarthEngine
 
 
-var icUniques = ic.distinct(["property"]).aggregate_array("property")
+`var icUniques = ic.distinct(["property"]).aggregate_array("property")`
+
+[Link](https://code.earthengine.google.com/03ff794c8950da533c2e81d0988d0842)
+
 
 
 
