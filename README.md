@@ -27,7 +27,27 @@ Release [file](https://raw.githubusercontent.com/rutgerhofste/hyde/master/readme
 
 Files stored on `s3://wri-projects/Aqueduct30/rawData/Hyde/`
 
+## Data structure
 
+### Population (pop)
+
+| short      | description                                                                             |
+|------------------|--------------------------------------------------------------------------------------|
+|opc|population counts, in inhabitants/gridcell |
+|opd|population density, in inhabitants/km2 per gridcell |
+|urc|rural population counts, in inh/gridcell |
+|rbc|urban population counts, in inh/gridcell |
+|opp|total built-up area, such as towns, cities, etc, in km2 per grid cell |
+
+###  Land use (lu)
+
+
+
+
+## EarthEngine
+
+
+var icUniques = ic.distinct(["property"]).aggregate_array("property")
 
 
 
